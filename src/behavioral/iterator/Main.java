@@ -2,9 +2,6 @@ package behavioral.iterator;
 
 import java.util.Iterator;
 
-/**
- * Created by Illia Chenchak
- */
 public class Main {
 
     public static void main(String[] args) {

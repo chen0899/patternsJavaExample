@@ -4,9 +4,6 @@ import java.util.Iterator;
 
 import static java.util.Objects.nonNull;
 
-/**
- * Created by Illia Chenchak
- */
 public class BookRepository implements Iterable<Book>{
 
     Book [] books = new Book[10];

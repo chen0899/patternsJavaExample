@@ -1,8 +1,5 @@
 package behavioral.momento;
 
-/**
- * Created by Illia Chenchak
- */
 public class Employee {
 
     private String name;

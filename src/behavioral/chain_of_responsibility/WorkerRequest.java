@@ -1,8 +1,5 @@
 package behavioral.chain_of_responsibility;
 
-/**
- * Created by Illia Chenchak
- */
 public class WorkerRequest {
 
     private Double amount;

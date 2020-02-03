@@ -1,8 +1,5 @@
 package behavioral.mediator;
 
-/**
- * Created by Illia Chenchak
- */
 public class Fan {
 
     private boolean isOn = false;

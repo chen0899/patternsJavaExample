@@ -2,9 +2,6 @@ package behavioral.momento;
 
 import java.util.Stack;
 
-/**
- * Created by Illia Chenchak
- */
 public class EmployeeCare {
 
     Stack<Employee.Memento> stack = new Stack<>();

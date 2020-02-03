@@ -1,8 +1,5 @@
 package behavioral.chain_of_responsibility;
 
-/**
- * Created by Illia Chenchak
- */
 public class Main {
 
     public static void main(String[] args) {
